@@ -1,6 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&text=Binari%20here!&fontColor=000000&fontSize=50)
 
-<!--
+# SKILL
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
+<!--)
 **bitnari0812/bitnari0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
