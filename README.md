@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&text=Binari%20here!&fontColor=000000&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Bitnari%20here!&fontColor=000000&fontSize=50)
 </div>
 <br/>  
 <br/>
