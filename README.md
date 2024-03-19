@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Binari%20here!&fontColor=000000&fontSize=50)
 
 # SKILL
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
