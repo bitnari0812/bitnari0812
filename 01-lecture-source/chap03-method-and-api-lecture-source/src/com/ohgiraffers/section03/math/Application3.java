@@ -18,19 +18,19 @@ public class Application3 {
 
         /*1. 0부터 9까지 난수발생*/
         int randomNum = random.nextInt(10);
-        System.out.println("0부터 9까지의 난수? : "+(randomNum));
+        System.out.println("0부터 9까지의 난수? : "+randomNum);
 
         /*2. 1부터 10까지 난수발생*/
         int randomNum1 = random.nextInt(10)+1;
-        System.out.println("1부터 10까지의 난수? : "+(randomNum1));
+        System.out.println("1부터 10까지의 난수? : "+randomNum1);
 
         /*3. 20에서 45까지 난수발생*/
         int randomNum2 = random.nextInt(26)+20;
-        System.out.println("20부터 45까지의 난수? : "+(randomNum2));
+        System.out.println("20부터 45까지의 난수? : "+randomNum2);
 
         /*4. -128에서 127까지의 난수발생*/
         //int randomNum3 = random.nextInt(256) -128;
-        int randomNum3 = new Random().nextInt(256) - 128;  //객체를 생성하자마자 바로 메소드 호출 가능
+        int randomNum3 = new Random().nextInt(256)-128;  //객체를 생성하자마자 바로 메소드 호출 가능
         System.out.println("-128~127까지의 난수발생 : "+randomNum3);
 
     }
