@@ -14,10 +14,10 @@ public class Application2 {
          *
          * System.out.println("필요한 바구니의 수 : " + numOfBucket); -> 10
          */
-         int numOfApples = 92;
-         int sizeOfBucket = 10;
-         int numOfBucket = (numOfApples/sizeOfBucket)+(numOfApples%sizeOfBucket);
-         System.out.println("필요한 바구니의 수 : " + numOfBucket);
+        int numOfApples = 92;
+        int sizeOfBucket = 10;
+        int numOfBucket = (int) Math.ceil((double) numOfApples / sizeOfBucket);
+        System.out.println("필요한 바구니의 수 : " + numOfBucket);
 
     }
 }
