@@ -32,7 +32,7 @@ public class Application3 {
 
         System.out.print("공백이 있는 문자열을 하나 입력해주세요 : ");
 
-        sc.nextLine();   // 한 줄을 비워주는 용도로 중요함.
+        sc.nextLine();   // 한 줄을 비워주는 용도로 중요함. 문자열이라고 해서 String이 아닌 next와 nextLine만 있음
 
         String str2 = sc.nextLine();
         System.out.println("str2 = " + str2);
