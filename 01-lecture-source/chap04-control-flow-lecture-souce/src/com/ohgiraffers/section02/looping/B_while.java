@@ -48,7 +48,7 @@ public class B_while {
         while (index < str.charAt(index)){
 
             char ch = str.charAt(index);
-            System.out.println(index + " : " + ch);
+            System.out.println(index+" : " +ch);
             index++;
 
         }
