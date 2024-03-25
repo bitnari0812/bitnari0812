@@ -22,30 +22,36 @@ public class Application1 {
         /*println(줄바꿈) -> 그러나 입력받은 값을 활용할때는 줄바꿈이 필요없기 때문에 print 사용*/
 
         /*2-1. 문자열 입력받기*/
-        /*nextLine(); : 입력받은 값을 문자열로 반환해줌*/
+        /*nextLine() : 입력받은 값을 문자열로 반환해줌*/
         System.out.print("이름을 입력해주세요 : ");
         String name = sc.nextLine();
         System.out.println("입력하신 이름은 "+name+"입니다.");
 
         /*2-2. 정수값 입력받기*/
-        /*nextInt(); : 입력받은 값을 int형으로 반환한다*/
+        /*nextInt() : 입력받은 값을 int형으로 반환한다*/
         System.out.print("나이를 입력하세요 : ");
         int age = sc.nextInt();
         System.out.println("입력하신 나이는 "+age+"입니다.");
         //long 의 경우도 동일
 
         /*2-3. 실수값 입력받기*/
-        /*nextDouble(); : 입력받은 값을 double로 반환한다*/
+        /*nextDouble() : 입력받은 값을 double로 반환한다*/
         System.out.print("원하는 실수를 입력해주세요 : ");
         double num = sc.nextDouble();
         System.out.println("입력하신 실수는 "+num+"입니다.");
 
         /*2-4. 논리형값 입력받기*/
-        /*nextBoolean(); : 입력받은 값을 boolean으로 반환한다*/
+        /*nextBoolean() : 입력받은 값을 boolean으로 반환한다*/
         System.out.print("참과 거짓의 한가지를 true or false로 입력해주세요 : ");
         boolean isTrue = sc.nextBoolean();
         System.out.println("입력하신 논리값은 "+isTrue+"입니다.");
 
+        /*2-5. 문자형값 입력받기*/
+        /*charAt(int index)를 사용한다.*/
+        sc.nextLine();
+        System.out.print("아무 문자나 입력해주세요 : ");
+        char ch = sc.nextLine().charAt(2);
+        System.out.println("입력하신 문자는 "+ch+"입니다.");
 
     }
 }
