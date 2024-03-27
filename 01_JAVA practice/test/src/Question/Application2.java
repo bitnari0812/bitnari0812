@@ -16,6 +16,5 @@ public class Application2 {
 
         String str = TestRandom();
         System.out.println(str);
-
     }
 }

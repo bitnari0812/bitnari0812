@@ -27,5 +27,4 @@ public class TestMethod {
         String result = "생성한 난수는 " + randomNumber + "입니다.";
         return result;
     }
-
 }
