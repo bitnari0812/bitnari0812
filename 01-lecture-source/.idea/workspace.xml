@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abd94dba-b18b-40e0-8780-20ced5a07554" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/chap01-literal-and-variable-lecture-source/chap01-literal-and-variable-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap02-operator-lectrue-source/chap02-operator-lectrue-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap03-method-and-api-lecture-source/chap03-method-and-api-lecture-source.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_JAVA practice/test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JAVA practice/test/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="abd94dba-b18b-40e0-8780-20ced5a07554" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2e9pvfbzkvSgYOYD5SqyiS42D2W" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -28,7 +23,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source/chap03-method-and-api-lecture-source",
+    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source/chap05-array-lecture-source",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -49,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711326879978</updated>
       <workItem from="1711326881030" duration="20000" />
+      <workItem from="1711585768148" duration="60000" />
     </task>
     <servers />
   </component>
