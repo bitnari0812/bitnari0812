@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abd94dba-b18b-40e0-8780-20ced5a07554" name="Changes" comment="" />
+    <list default="true" id="abd94dba-b18b-40e0-8780-20ced5a07554" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source/chap05-array-lecture-source",
+    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source/chap06-class-and-object-lecture-source",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -45,6 +47,8 @@
       <updated>1711326879978</updated>
       <workItem from="1711326881030" duration="20000" />
       <workItem from="1711585768148" duration="60000" />
+      <workItem from="1711618484072" duration="79000" />
+      <workItem from="1711671988077" duration="23000" />
     </task>
     <servers />
   </component>
