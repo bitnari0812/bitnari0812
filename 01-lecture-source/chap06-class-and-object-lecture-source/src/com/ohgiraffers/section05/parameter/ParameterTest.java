@@ -55,7 +55,7 @@ public class ParameterTest {
         for (int i = 0; i < hobby.length; i++) {
             System.out.print(hobby[i] + " ");
         }
-        System.out.println();*/
+        System.out.println();*/   // 모호성이 발생해서 에러발생
 
 
 }

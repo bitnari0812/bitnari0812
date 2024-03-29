@@ -49,7 +49,6 @@ public class Application {
         pt.testVariableLengthArray("이순신","볼링","농구","축구"); //여러개도 가능
         pt.testVariableLengthArray("신사임당",new String[]{"테니스","서예"}); //배열도 가능
 
-
     }
 
 }
