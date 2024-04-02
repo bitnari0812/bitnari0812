@@ -22,6 +22,5 @@ public class Application5 {
             }
         }
         System.out.println("1부터 "+answer+"까지의 짝수의 합 = "+sum);
-
     }
 }
