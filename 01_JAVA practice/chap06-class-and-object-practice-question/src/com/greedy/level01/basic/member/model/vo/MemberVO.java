@@ -1,13 +1,15 @@
 package com.greedy.level01.basic.member.model.vo;
 
 public class MemberVO {
-    String id;
-    String pwd;
-    String name;
-    int age;
-    char gender;
-    String phone;
-    String email;
+    private String id;
+    private String pwd;
+    private String name;
+    private int age;
+    private char gender;
+    private String phone;
+    private String email;
+
+
 
     public String getId() {
         return id;

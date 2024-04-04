@@ -1,4 +1,4 @@
-package com.greedy.level01.basic.member.run;
+package com.greedy.level01.basic.member.model.run;
 
 import com.greedy.level01.basic.member.model.vo.MemberVO;
 
@@ -27,9 +27,9 @@ public class Application {
         vo.setPwd("pass01");
         vo.setName("홍길동");
         vo.setAge(20);
-        vo.setGender('남');
+        vo.setGender('M');
         vo.setPhone("010-1234-5678");
-        vo.setEmail("hong@greedy.com");
+        vo.setEmail("hong123@greedy.com");
 
         System.out.println("변경 후 id = " + vo.getId());
         System.out.println("변경 후 pwd = " + vo.getPwd());
