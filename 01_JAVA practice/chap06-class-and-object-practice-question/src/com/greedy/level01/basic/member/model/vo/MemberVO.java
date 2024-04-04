@@ -9,7 +9,7 @@ public class MemberVO {
     private String phone;
     private String email;
 
-
+    public MemberVO(){}
 
     public String getId() {
         return id;
