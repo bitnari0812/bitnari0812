@@ -33,8 +33,4 @@ public class MusicManager {
         }return searching;
     }
 
-    public boolean update(MusicDTO update){
-
-
-    }
 }
