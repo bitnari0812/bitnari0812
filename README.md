@@ -73,3 +73,10 @@ Always ready to tackle challenges with fresh ideas and a creative approach, I fo
 - Watching movies
 - Gaming
 - Drinking coffee
+  
+<br/>
+<br/>
+
+# CONNECT
+
+solitarybiz@gmail.com
