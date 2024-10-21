@@ -45,3 +45,21 @@
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC.svg?&style=for-the-badge&logo=SourceTree&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+
+<br/>
+<br/>
+
+# CAREER
+
+- Freelance Writer (2017.07 - Present): Writing columns, articles, and contributions to various media platforms such as newspapers, independent magazines, and blogs.
+
+<br/>
+<br/>
+
+# HOBBY
+
+- Reading
+- Writing
+- Watching movies
+- Gaming
+- Drinking coffee
