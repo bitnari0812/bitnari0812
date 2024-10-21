@@ -7,10 +7,10 @@
 
 # INTRODUCTION
 
-작가 생활을 통해 다져진 논리와 상상력을 바탕으로, 사용자 맞춤형 솔루션을 실현합니다. 
-언제나 새로운 아이디어와 창의적인 접근으로, 기술적 문제를 해결하고 사용자 경험을 최우선으로 생각합니다.
-With a solid foundation in logic and creativity honed from my career as a writer, I bring tailored solutions to life. 
-Always ready to tackle challenges with fresh ideas and a creative approach, I focus on delivering top-notch user experiences through innovative technologies.
+작가 생활을 통해 다져진 논리와 상상력을 바탕으로, 사용자 맞춤형 솔루션을 실현합니다. <br/>
+언제나 새로운 아이디어와 창의적인 접근으로, 기술적 문제를 해결하고 사용자 경험을 최우선으로 생각합니다.<br/>
+With a solid foundation in logic and creativity honed from my career as a writer, I bring tailored solutions to life. <br/>
+Always ready to tackle challenges with fresh ideas and a creative approach, I focus on delivering top-notch user experiences through innovative technologies.<br/>
 
 # BACKEND
 
